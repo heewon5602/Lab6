@@ -1,13 +1,12 @@
 # 201934612_-_lecture_note_6.md
 Summarize about git
 
-
 ##version control and collaboration
-###changes vs Snapshots
+###changes vs Snapshots  
 *changes* : Storing data as changes to the base version
 *snapshots* : Storing data as snapshots (git is using)
 
-###Methods of storaging
+###Methods of storaging  
 *Local*: Local computer has version databases.
 *Centralized*
   : Central VCS Server has version databases.
@@ -19,7 +18,7 @@ Summarize about git
   : It is easy to collaborate.
   : It is easy to restre data when lost.
   
-###3steps in Git
+###3steps in Git  
 1. Modified: In working directory
 2. Staged: In Staging Area
 3. Commited: In git directory(Repository)
