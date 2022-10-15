@@ -1,4 +1,5 @@
-# 201934612_-_lecture_note_6.md
+# Lab6
+
 Summarize about git
 
 ## version control and collaboration
